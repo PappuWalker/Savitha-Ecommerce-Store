@@ -1,0 +1,25 @@
+{
+  "short_name": "SAVITHA",
+  "name": "SAVITHA Fashion",
+  "icons": [
+    {
+      "src": "Savitha Modern.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "Savitha Modern.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Savitha Modern.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#E75480",
+  "background_color": "#f5f5f5"
+}
