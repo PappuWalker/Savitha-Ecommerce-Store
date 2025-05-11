@@ -4,7 +4,7 @@ A modern, elegant e-commerce platform designed for high-end fashion retail. SAVI
 
 ![SAVITHA Logo](public/Savitha%20Modern.png)
 
-## What is this project?
+## What ?
 
 SAVITHA Fashion is a Next.js-powered e-commerce platform specialized for fashion retail. The application features:
 
@@ -52,8 +52,8 @@ This project focuses on delivering an exceptional user experience while maintain
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/savitha-fashion.git
-cd savitha-fashion
+git clone https://github.com/PappuWalker/Savitha-Ecommerce-Store.git
+cd Savitha-Ecommerce-Store
 ```
 
 2. Install dependencies
