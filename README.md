@@ -2,7 +2,7 @@
 
 A modern, elegant e-commerce platform designed for high-end fashion retail. SAVITHA offers a seamless shopping experience with fullscreen welcome animation, responsive design, and optimized performance.
 
-![SAVITHA Logo](public/Savitha%20Modern.png)
+![SAVITHA Logo](public/Savitha%20Modern512.png)
 
 ## What ?
 
