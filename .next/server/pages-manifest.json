@@ -1,1 +1,11 @@
-{}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/CartPage": "pages/CartPage.html",
+  "/HomePage": "pages/HomePage.html",
+  "/ProductDetailPage": "pages/ProductDetailPage.html",
+  "/WelcomePage": "pages/WelcomePage.html",
+  "/ProductListPage": "pages/ProductListPage.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

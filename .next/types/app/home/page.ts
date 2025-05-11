@@ -1,4 +1,4 @@
-// File: D:\savitha-Hydrogen\src\app\home\page.js
+// File: D:\savitha-Hydrogen\Savitha-Ecommerce-Store\src\app\home\page.js
 import * as entry from '../../../../src/app/home/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
